@@ -6,6 +6,10 @@ permalink: /publications/
 
 
 
+<h3><font color="blue" face = "bold">Submitted</font></h3>
+
+- Xinshan Zhu, Siru Yao, Biao Sun, Yongjun Qian, "Image Quality Assessment: Combining the Characteristics of HVS and Structural Similarity Index", submitted to **Acta Physica Sinica**.
+
 <h3><font color="blue" face = "bold">2017</font></h3>
 
 - **[J13]** Hui Feng, Biao Sun, Shugen Ma, "Investigation on 1-bit compressed sensing reconstruction method for block-sparse signals," **Acta Physica Sinica**, 2017(18): 180202.
