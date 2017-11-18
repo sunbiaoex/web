@@ -12,14 +12,16 @@ permalink: /publications/
 
 <h3><font color="blue" face = "bold">2017</font></h3>
 
-- **[J13]** Hui Feng, Biao Sun, Shugen Ma, "Investigation on 1-bit compressed sensing reconstruction method for block-sparse signals," **Acta Physica Sinica**, 2017(18): 180202.
+- **[J15]** Wenfeng Zhao, Biao Sun, Tong Wu, Zhi Yang "On-Chip Neural Data Compression Based On Compressed Sensing with Sparse Sensing Matrices," **IEEE Transactions on Biomedical Circuits and Systems**, accepted.
+- **[J14]** Huirang Hou, Qinghao Meng, Ming Zeng, Biao Sun "Improving Classification of Slow Cortical Potential Signals for BCI Systems with Polynomial Fitting and Voting-Support-Vector-Machine," **IEEE Signal Processing Letters**, accepted.
+- **[J13]** Hui Feng, Biao Sun, Shugen Ma, "[Investigation on 1-bit compressed sensing reconstruction method for block-sparse signals](http://wulixb.iphy.ac.cn/CN/Y2017/V66/I18)," **Acta Physica Sinica**, 2017(18): 180202.
 - **[J12]** Biao Sun, Hui Feng, "[Efficient Compressed Sensing for Wireless Neural Recording: A Deep Learning Approach](http://ieeexplore.ieee.org/document/7911224/)," **IEEE Signal Processing Letters**, 2017(6): 863-867.
 - **[J11]** Biao Sun, Yuming Ni, "[A Training-free One-bit Compressed Sensing Framework for Wireless Neural Recording](http://ieeexplore.ieee.org/document/7903599/)," **IEEE Communications Letters**, 2017(8).
 - **[J10]** Biao Sun, Wenfeng Zhao,  Xinshan Zhu, "[Training-free compressed sensing for wireless neural recording using analysis model and group weighted l1-minimization](http://iopscience.iop.org/article/10.1088/1741-2552/aa630e)," **Journal of Neural Engineering**, 2017(3): 030618.
 
 <h3><font color="blue" face = "bold">2016</font></h3>
 
-- **[J9]** Biao Sun, Hui Feng, Kefan Chen and Xinshan Zhu, "[A Deep Learning Framework of Quantized Compressed Sensing for Wireless Neural Recording](http://ieeexplore.ieee.org/document/7560597/)," **IEEE ACCESS**, 2016(4): 5169-5178.
+- **[J9]** Biao Sun, Hui Feng, Kefan Chen, Xinshan Zhu, "[A Deep Learning Framework of Quantized Compressed Sensing for Wireless Neural Recording](http://ieeexplore.ieee.org/document/7560597/)," **IEEE ACCESS**, 2016(4): 5169-5178.
 - **[C11]** Biao Sun and Wenfeng Zhao, "[Training-Free Compressed Sensing for Wireless Neural Recording](http://ieeexplore.ieee.org/abstract/document/7833714/)," **Biomedical Circuits and Systems Conference (BioCAS), 2016 IEEE**, 2016: 18-21.
 - **[C10]** Wenfeng Zhao, Biao Sun, and Zhi Yang, "[Hardware Efficient, Deterministic QCAC Matrix Based Compressed Sensing Encoder Architecture for Wireless Neural Recording Application](http://ieeexplore.ieee.org/abstract/document/7833769/)," **Biomedical Circuits and Systems Conference (BioCAS), 2016 IEEE**, 2016: 212-215.
 - **[J8]** Biao Sun, Hui Feng, and Xinxin Xu, "[HISTORY: An Efficient and Robust Algorithm for Noisy 1-bit Compressed Sensing](https://search.ieice.org/bin/summary.php?id=e99-d_10_2566&category=D&year=2016&lang=E&abst=)," **IEICE TRANSACTIONS on Information and Systems**, 99(10): 2566-2573. [[**code**](https://coding.net/u/sunbiaoex/p/sunbiaoex/git/raw/coding-pages/_files/history.zip)].
